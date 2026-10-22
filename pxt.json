@@ -1,5 +1,5 @@
 {
-    "name": "UTF-8 Tools for MICRO:BIT",
+    "name": "ASCII Tools for MICRO:BIT",
     "description": "",
     "dependencies": {
         "core": "*",
